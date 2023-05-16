@@ -2,7 +2,8 @@
 using namespace std;
 void main()
 {
-    cout<<"my name is gagan";
     int a;
-    
+    cout<<"my name is gagan";
+    cin>>a;
+    cout<<a+1;
 }
