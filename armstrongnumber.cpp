@@ -18,9 +18,9 @@
         }
     
         if (result == num)
-            cout << num << " is an Armstrong number.";
+            cout << num << " is an Armstrong number. ";
         else
-            cout << num << " is not an Armstrong number.";
+            cout << num << " is not an Armstrong number. ";
     
         return 0;
     }
