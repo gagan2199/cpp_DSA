@@ -13,8 +13,8 @@ int main()
     if (strcmp(str1, str2))
         flag = 1;
     if (flag == 1)
-        cout << str1 << " is not a palindrome";
+        cout << str1 << " is not a palindrome ";
     else
-        cout << str1 << " is a palindrome";
+        cout << str1 << " is a palindrome ";
     return 0;
 }
