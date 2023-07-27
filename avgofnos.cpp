@@ -10,6 +10,6 @@ int main()
         cin>>n;
         k=k+n;
     }
-    cout<< k/a;
+    cout<<"the avg is"<< k/a;
 }
 
