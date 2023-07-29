@@ -23,7 +23,7 @@ void Apattern(int n)
 			// i.
 		i++;
 		// Ending line after each row
-		cout << endl;
+		cout << endl ;
 	}
 }
 
