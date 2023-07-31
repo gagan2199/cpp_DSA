@@ -19,7 +19,7 @@ void Apattern(int n)
 			j++;
 		}
 		j = 0; // we have to reset j value so as it can
-			// start from beginning and print * equal to
+			  // start from beginning and print * equal to
 			// i.
 		i++;
 		// Ending line after each row
@@ -30,7 +30,7 @@ void Apattern(int n)
 // Driver Code
 int main()
 {
-	int n = 5;
+	int n = 4;
 	Apattern(n);
 	return 0;
 }
