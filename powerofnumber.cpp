@@ -10,5 +10,4 @@ int main()
     a=a*a;
    }
    cout<<a;
-
 }
