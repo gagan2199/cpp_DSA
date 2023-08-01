@@ -40,4 +40,3 @@ int main()
 	int n = 5;
 	pattern(n);
 }
-// this code is contributed by Shivesh Kumar Dwivedi
