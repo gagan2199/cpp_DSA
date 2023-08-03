@@ -32,7 +32,6 @@ void numpat(int n)
 int main()
 {
 	int n = 5;
-
 	// Function Call
 	numpat(n);
 	return 0;
