@@ -25,7 +25,7 @@ void alphabet(int n)
 		}
 
 		// incrementing alpha value so as it can
-		// point to next character
+		//  point to next character
 		alpha++;
 
 		// we have to reset j value so as it can
