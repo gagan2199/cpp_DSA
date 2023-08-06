@@ -1,6 +1,6 @@
 #include<iostream>
-using namespae std;
+using namespace std;
 int main()
 {
-    
+
 }
