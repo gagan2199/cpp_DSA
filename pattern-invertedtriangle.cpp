@@ -32,7 +32,7 @@ void printInvTriangle(int n)
 // driver code
 int main()
 {
-	printInvTriangle(5);
+	printInvTriangle(4);
 
 	return 0;
 }
