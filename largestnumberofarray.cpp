@@ -21,7 +21,7 @@ int largest(int arr[], int n)
 // Driver code
 int main()
 {
-	int arr[] = { 10, 324, 45, 90, 9808 };
+	int arr[] = { 10, 324, 45, 90, 988 };
 	int n = sizeof(arr) / sizeof(arr[0]);
 
 	// Function call
