@@ -16,7 +16,7 @@ int max(int x, int y)
 // returns integer
 int main()
 {
-	int a = 10, b = 20;
+	int a = 30, b = 20;
 
 	// Calling above function to find max of 'a' and 'b'
 	int m = max(a, b);
