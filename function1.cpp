@@ -21,6 +21,6 @@ int main()
 	// Calling above function to find max of 'a' and 'b'
 	int m = max(a, b);
 
-	cout << "m is = " << m;
+	cout << "m is (max number) = " << m;
 	return 0;
 }
