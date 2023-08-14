@@ -16,6 +16,6 @@ for(int i=1;i<=n;i++)
     }
     
     k--;
-    cout<<endl;
+    cout<< endl;
 }
 }
