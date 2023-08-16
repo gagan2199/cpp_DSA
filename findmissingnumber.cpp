@@ -3,7 +3,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-void findMissing(int arr[], int N)
+void findMissing(int arr[] , int N)
 {
 	int i;
 	int temp[N + 1];
