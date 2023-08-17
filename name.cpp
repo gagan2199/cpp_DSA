@@ -2,7 +2,7 @@
 using namespace std;
 void main()
 {
-    int a;
+    int a,b=7;
     cout<<"gagan kumar";
     cout<<endl<<"branch ICE";
     cin>>a;
