@@ -27,7 +27,7 @@ void findMissing(int arr[] , int N)
 /* Driver code */
 int main()
 {
-	int arr[] = { 1, 3, 7, 5, 6, 2};
+	int arr[] = { 1, 3, 7, 5, 6, 2,8};
 	int n = sizeof(arr) / sizeof(arr[0]);
 	findMissing(arr, n);
 }
