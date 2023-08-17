@@ -16,7 +16,7 @@ void numpat(int n)
 
 		// Inner loop to handle number of columns
 		// values changing acc. to outer loop
-		for (int j = 0; j <= i; j++)
+		for (int j = 0 ; j <= i ; j++)
 			cout << num << " ";
 
 		// Incrementing number at each column
