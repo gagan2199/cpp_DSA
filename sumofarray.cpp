@@ -25,5 +25,3 @@ int main()
 	cout << "Sum of given array is " << sum(arr, n);
 	return 0;
 }
-
-// This code is contributed by rathbhupendra
