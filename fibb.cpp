@@ -7,7 +7,7 @@ int main() {
     cout << "Enter a positive number: ";
     cin >> n;
 
-    // displays the first two terms which is always 0 and 1
+
     cout << "Fibonacci Series: " << t1 << ", " << t2 << ", ";
 
     nextTerm = t1 + t2;
