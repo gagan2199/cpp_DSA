@@ -14,6 +14,6 @@ int main ()
         str[i] = str[j];
         str[j] = temp;
     }
-    cout << "\nReverse string : " << str;
+    cout << "\n Reverse string : " << str;
     return 0;
 }
