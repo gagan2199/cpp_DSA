@@ -1,4 +1,5 @@
 #include<iostream>
+#include<limits.h>
 using namespace std;
 void second_largest(int nums[], int arr_size)
   {
