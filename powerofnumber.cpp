@@ -9,5 +9,5 @@ int main()
    {
     a=a*a;
    }
-   cout<<a;
+   cout<<"power of given number is"<<a;
 }
