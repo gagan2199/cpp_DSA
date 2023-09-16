@@ -28,7 +28,7 @@ void most_occurred_number(int nums[], int size)
  
 int main()
 {
-    int nums[] = {4, 5, 9, 12, 9, 22,66,7,45,9,76,12,12 ,45, 7};
+    int nums[] = {4, 5, 9, 12, 9, 22,12,12,87,45,9,76,12,12 ,45, 7};
     int n = sizeof(nums)/sizeof(nums[0]);
     cout << "Original array: ";
     for (int i=0; i < n; i++) 
