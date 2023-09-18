@@ -8,7 +8,7 @@ void second_largest(int nums[], int arr_size)
     /* There should be atleast two elements */
     if (arr_size < 2)
     {
-        cout<< " Invalid Input ";
+        cout<< " This is Invalid Input ";
         return;
     }
  
