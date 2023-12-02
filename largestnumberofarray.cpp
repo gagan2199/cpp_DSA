@@ -55,7 +55,7 @@ int main() {
       arr[0] = arr[i];
   }
 
-  cout << endl << "Largest element = " << arr[0];
+  cout << endl << "Largest element of array = " << arr[0];
 
   return 0;
 }
