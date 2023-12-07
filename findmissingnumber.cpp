@@ -31,3 +31,15 @@ int main()
 	int n = sizeof(arr) / sizeof(arr[0]);
 	findMissing(arr, n);
 }
+
+// js
+
+var missing = [];
+
+for ( var j = 0; j < a.length; j++ ) {
+    for ( var i = 1; i <= count; i++ ) {
+        if (a[j] != i) {
+            missing.push( i );
+        }
+    }      
+}
