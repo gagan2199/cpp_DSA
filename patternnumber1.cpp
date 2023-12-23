@@ -22,7 +22,7 @@ void numpat(int n)
 		// Incrementing number at each column
 		num = num + 1;
 
-		// Ending line after each row
+		// Ending line after each row to print 
 		cout << endl;
 	}
 }
