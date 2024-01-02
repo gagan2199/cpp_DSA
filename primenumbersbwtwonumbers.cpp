@@ -21,7 +21,7 @@ int main() {
   cout << "Prime numbers between " << n1 << " and " << n2 << " are:\n";
 
   for(int i = n1+1; i < n2; ++i) {
-    // if i is a prime number, flag will be equal to 1
+    // if i is a prime number, flag will be equal to 1 so
     flag = check_prime(i);
 
     if(flag)
