@@ -18,7 +18,7 @@ int main()
 {
 	int a = 30, b = 20;
 
-	// Calling above function to find max of 'a' and 'b'
+	// Calling above function to find max of 'a' and 'b' numbers 
 	int m = max(a, b);
 
 	cout << "m is (max  number) = " << m;
