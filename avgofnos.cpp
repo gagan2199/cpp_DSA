@@ -10,7 +10,7 @@ int main()
         cin>>n;
         k=k+n;
     }
-    cout<<"the avg is equal to"<< k/a;
+    cout<<"the avg of the given numbers is equal to"<< k/a;
 }
 
 /*
